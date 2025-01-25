@@ -1,7 +1,4 @@
-# GenAI-email-generator
-email generator using Llama3.3 LLM, Langchain, Chromadb and Streamlit
-
-# 📧 Cold Email Generator
+# 📧 Email Generator
 
 ## Overview
 
